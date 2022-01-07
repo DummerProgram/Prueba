@@ -172,3 +172,4 @@ class Perro extends Animal{
 const perro = new Perro('Perro', 'Canino', 10);
 perro.metodoEdad();
 perro.metodoNombre();
+/* */
